@@ -7,7 +7,7 @@
     }
     reset($arrNilai);
     echo "<br> Menampilkan isi array dengan while dan lisst ; <br>";
-    while (list ($nama, $nilai)= each($arrNilai)){
+    while (list ($nama, $nilai)= eac($arrNilai)){
         echo "Nilai $nama = $nilai <br>";
     }
 ?>
