@@ -4,5 +4,5 @@
     do {
         echo "Angka: $x <br>";
         $x++;
-     } while ($a <= 10);
+     } while ($x <= 10);
 ?>
